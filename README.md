@@ -67,11 +67,3 @@ Para más detalles, consulta la documentación generada con Swagger:
 ```
 http://localhost:8000/api/documentation
 ```
-
-## Pruebas
-
-Para ejecutar las pruebas unitarias:
-
-```sh
-php artisan test
-```
